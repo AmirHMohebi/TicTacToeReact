@@ -1,0 +1,4 @@
+.container {
+  display: flex;
+  border-bottom: 10px solid #ffedd5;
+}

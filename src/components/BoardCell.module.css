@@ -1,0 +1,23 @@
+.container {
+  border-right: 10px solid #ffedd5;
+  height: 9.6rem;
+  width: 9.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+.container:last-child {
+  border-right: none;
+}
+
+.X {
+  color: #ef4444;
+}
+
+.O {
+  color: #0369a1;
+}
